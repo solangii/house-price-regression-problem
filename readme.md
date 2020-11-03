@@ -1,5 +1,11 @@
 # House Price of King County Regions
 
+project file : main.ipynb
+
+data file : MGE303_Term Project_Regression_Data (House Price).csv
+
+report file : /report/report.md
+
 I will exploring **the House Price of Kimg County Regions** by term project of MGE303 DataMining class(2020, spring). Actually, This is a problem of **regression**. We **want to know the house price in the King County area**. So, **Our goal is to more accurately predict house price for a house that meets the conditions i want by using the given data**(Problem Definition).
 
 ---
