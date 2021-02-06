@@ -92,7 +92,7 @@ Of the three models, The Random Forest’s RMSE values are the smallest, and Sco
 
 ## Post-Analysis
 
-We already know that random forests have emerged to address the main drawback of crystalline trees, the tendency to overfit. Therefore, we know that random forests are better models than decision trees.
+We already know that random forests have emerged to address the main drawback of decision trees, the tendency to overfit. Therefore, we know that random forests are better models than decision trees.
  In addition, linear regression would have been overqualified due to the correlation between independent variables. Therefore, I think the best of the three models is random forest because they would have solved the most overfitting problem.
 
  
